@@ -2,7 +2,7 @@
 Andy Le, AndyTuLe Febuary 14, 2019
 
 ## About
-- The robot is programmed using an Arduino, Raspberry Pi, with Python, Java, and C++
+- The robot is programmed using an Arduino, Raspberry Pi, with Python and C++
 - A robot that picks up scrap pieces of metal
 
 ## Usage
