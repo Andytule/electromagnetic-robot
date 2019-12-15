@@ -17,3 +17,5 @@ Arduino was utilized by:
 - Controling the motor control boards that allowed the robot to move
 - Activating the servo motors that moved the arms up and down
 
+![Mock](https://user-images.githubusercontent.com/47620000/70858128-b1e42480-1ec9-11ea-87d7-c5e7b632f8f8.png "Mock")
+![Picture](https://user-images.githubusercontent.com/47620000/70858137-e3f58680-1ec9-11ea-8950-3b28b316d88e.png "{icture")
