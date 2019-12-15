@@ -1,5 +1,5 @@
 # Electromagnetic-Robot
-Andy Le, AndyTuLe
+Andy Le, AndyTuLe Febuary 14, 2019
 
 ## About
 - The robot is programmed using an Arduino, Raspberry Pi, with Python, Java, and C++
