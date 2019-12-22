@@ -2,8 +2,8 @@
 Andy Le, AndyTuLe Febuary 14, 2019
 
 ## About
+- A robot that runs around and picks metal pieces off the floor. The electromagnetic robot has been programmed to drive around and use electromagnets with electric currents to attract the metal pieces. Metal pieces are then stored in an on-board bin for later dispoal. 
 - The robot is programmed using an Arduino, Raspberry Pi, with Python and C++
-- A robot that picks up scrap pieces of metal
 
 ## Usage
 
